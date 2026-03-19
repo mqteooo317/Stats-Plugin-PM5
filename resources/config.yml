@@ -1,0 +1,4 @@
+# Hello dear user that uses this plugin(?). set here the url of your page.
+api_url: "http://your-host/api/player"
+api_key: "mi_clave_secreta_123"
+sync_interval: 300

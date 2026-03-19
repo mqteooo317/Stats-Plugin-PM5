@@ -1,0 +1,6 @@
+name: StatsPlugin
+main: stats\Main
+version: 0.0.4
+api: 5.0.0
+author: mqteooo317
+website: "https://github.com/mqteooo317/Stats-Plugin-PM5"
